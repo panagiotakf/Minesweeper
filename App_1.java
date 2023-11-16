@@ -1,12 +1,7 @@
 
 import java.io.File;
 import java.util.Scanner;
-//TODO: hyperminus sto part ton flag prepei na mpei
-//TODO: time
-//TODO: recursive reveal : check #
-//TODO: Victory :check # 
-//TODO: sto lost na anoigo ola ta tiles1 : check #
-//TODO: how to read the file: isos apo to terminal: check #
+
 public class App_1 {
     public static void main(String[] args) throws Exception {
        
