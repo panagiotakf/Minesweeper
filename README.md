@@ -1,5 +1,6 @@
 # Minesweeper
 Minesweeper game running in terminal.
+
 The version of the game is determined by a file consisting of 4 lines with a predefined syntax:
 • First line: contains the value 1 or 2 and specifies the difficulty level.
 • Second line: specifies the total number of mines0.
